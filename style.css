@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+input{
+    width: 210px;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgba(95, 158, 160, 0.37);
+    border-radius: 10px;
+    border: 2px, black;
+}
+button{
+    height: 45px;
+    width: 50px;
+    background-color: rgba(171, 144, 196, 0.678);
+    border-radius: 10px;
+  
+}
+.buttons{
+    display: inline-block;
+    background-color: rgba(222, 184, 135, 0.733);
+    padding: 30px;
+    border-radius: 20px;
+}
+button:hover{
+    background: rgba(207, 74, 101, 0.644);
+}
